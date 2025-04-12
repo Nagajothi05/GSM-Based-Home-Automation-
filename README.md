@@ -1,3 +1,5 @@
+GSM Based Home Automation 
+
 Platform: LPC2129 Microcontroller   |   Language: Embedded C   
 
 ●	The purpose of the project was to enable remote control of home appliances via SMS commands using a GSM-based system integrated with an ARM7(LPC2129) microcontroller.
